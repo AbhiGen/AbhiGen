@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFnMjE3bnIwYjVodDM1OG50azFsdGJ6ZmgzM3ZsNHh0YWh2YzJrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zK5EHMbtwfW1O/giphy.gif" alt="Jarvis Animation" width="350" />
-</p>
+
 
 # 🤖 Tony: Jarvis, give me the rundown on Abhiram Bikkina.
 
