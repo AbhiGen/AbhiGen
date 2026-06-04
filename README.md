@@ -7,7 +7,7 @@
 ## 💫 Tony: What’s the story? Who is this guy?
 
 > **Jarvis:**  
-> Abhiram Bikkina is an aspiring Software Engineer and core systems developer currently pursuing his B.Tech in Computer Science Engineering at **Amrita Vishwa Vidyapeetham** (CGPA: 8.2).  
+> Abhiram Bikkina is an aspiring Software Engineer and core systems developer currently pursuing his B.Tech in Computer Science Engineering at **Amrita Vishwa Vidyapeetham** .  
 > He operates out of Kakinada, Andhra Pradesh, and is engineered for extreme problem-solving, combining rock-solid foundations in Data Structures & Algorithms with practical experience building fault-tolerant distributed architecture and cutting-edge AI ecosystems.
 
 ---
